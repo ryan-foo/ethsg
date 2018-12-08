@@ -16,10 +16,6 @@ The function can be adjusted to query a range of dates of historical trading dat
 
 We also have implemented a front-end demo with a visualization as a proof of concept.
 
-```
-
-```
-
 ## Installation
 
 ```bash
