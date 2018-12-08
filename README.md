@@ -28,8 +28,8 @@ git clone https://github.com/ryan-foo/ethsg.git
 
 Run this command in your terminal.
 
-```
-python3 blahblah.py
+```bash
+python3 kycharts.py
 ```
 
 The program will query data from the Ethereum mainnet and automatically cleans it to OHLCV (Open, High, Low, Closing, Volume) data and stores it as a .csv. Beware -- the Ethereum mainnet is a very large set of data to get through!
@@ -42,17 +42,7 @@ We aimed to create an API.
 
 Based on our team's competencies, we decided between Python and Web3js as a means of getting the historical data from either etherscan. We saved this in a Jupyter Notebook. The end-goal was a Python library because the end goal was a data-science library.
 
-We accessed the main-net.
-
 Due to the constraints of the hackathon. Our webapp was also limited in its front-end and user experience. However, we believe the main target audience are developers and algorithmic traders, who will find the clean .csv useful for their purposes.
-
-
-
-## Technicals
-
-## Stretch Goals
-
-One of our stretch goals was to improve the user experience by reading the public key of the user and displays to them the tokens most relevant to them.
 
 ## Credits (in alphabetical order)
 
