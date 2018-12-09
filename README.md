@@ -43,3 +43,5 @@ Due to the constraints of the hackathon. Our webapp was also limited in its fron
 ## Credits (in alphabetical order)
 
 Anthony Cheung, Jeffery Cao, Ryan Foo, Yash Sinha
+
+![KyberCharts Team](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/734/773/datas/gallery.jpg)
